@@ -1,0 +1,172 @@
+.outerdiv{
+    height: 700px;
+    width:  100%;
+    background-color: aliceblue;
+}
+.top-div{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(224, 246, 246);
+}
+.bdiv{
+    height: 900px;
+    width: 100%;
+    background-color: rgb(220, 235, 249);
+}
+.leftdiv{
+    height: 800px;
+    width: 25%;
+    float: left;
+    background-color:rgb(220, 235, 249);
+}
+.rdiv{
+    height: 700px; 
+    width: 70%;
+    float:right;
+    background-color: rgb(220, 235, 249);
+}
+.a{
+    height: 700px;
+    width:90%;
+    background-color:rgb(253, 255, 255);
+    float: left;
+    margin: 20px;
+}
+.b{
+    height: 350px;
+    width: 80%;
+    background-color:  rgb(255, 255, 255);
+    float: left;
+    margin: 20px 20px 0px 20px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+.c{
+    height: 200px;
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 0px 20px; 
+
+}
+.d{
+    height: 350px;
+    width: 95%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+    margin: 20px 0px ;
+
+}
+.e{
+    height: 400px;
+    width: 95%;
+    background-color:  rgb(255, 255, 255);
+    float: left;
+    margin: 20px 0px ;
+
+}
+.n{
+    margin-left: 450px;
+}
+.n li{
+    margin: 5px;
+    float: left;
+    overflow: hidden;
+    list-style-type: none;
+}
+a{
+    color: black;
+    background-color: rgb(99, 204, 246);
+    display: inline-block;
+    padding: 10px 50px;
+    text-decoration: none;
+}
+.j{
+    color: black;
+    background-color: rgb(16, 250, 90);
+    display: inline-block;
+    padding: 10px 50px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: darkgray;
+    border-radius: 30px;
+}
+img{
+    height:150px ;
+    width: 150px;
+    border-radius: 150px;
+    margin-left: 50px;
+}
+.b1{
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.b2{
+    background-color: #ffffff;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+.f{
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+i{
+    padding: 20px 10px;
+    font-size: 15px;
+}
+label{
+    margin: 5px 20px;
+}
+input{
+    margin:10px  0px 0px 200px ;
+    
+}
+.b3{
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.x{
+    height: 15px;
+    width: 95%;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.row{
+    height: 40px;
+    width: 100%;
+}
+.c1 {
+    float: left;
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: large;
+  }
+
+  .c2 {
+    font-size: large;
+    float: left;
+    width: 70%;
+    margin-top: 10px;
+    padding: 2px 30px;
+  }
+  input[type=text],input[type=email],input[type=number]{
+    width: 70%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+  }
+ 
+   
